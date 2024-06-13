@@ -54,3 +54,5 @@ def chi_squared_feature_selection(data, target, dropped_features, k=10):
 
 top_features = chi_squared_feature_selection(data, target, dropped_features, k)
 print(top_features)
+
+# %%
