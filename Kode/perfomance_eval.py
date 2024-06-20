@@ -1,5 +1,8 @@
 from sklearn.metrics import precision_recall_curve, roc_curve, auc, average_precision_score, roc_auc_score
 from sklearn.model_selection import GroupKFold
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 
 def evaluate_model(X_withid, X, y, pred_func, model_name):
 
@@ -50,3 +53,37 @@ def evaluate_model(X_withid, X, y, pred_func, model_name):
         results[model_name]['recall'].append(recall)
         results[model_name]['fpr'].append(fpr)
         results[model_name]['tpr'].append(tpr)
+    return results
+
+
+def plot_results(model_name, results):
+    plt.figure(figsize=(14, 6))
+
+    # Plot PR curves
+    plt.subplot(1, 2, 1)
+    for i in range(len(results[model_name]['precision'])):
+        plt.plot(results[model_name]['recall'][i], results[model_name]['precision'][i], alpha=1, label=f'Outer fold {i+1}', linewidth=2)
+    plt.xlabel('Recall')
+    plt.ylabel('Precision')
+    plt.title(f'PR curve for {model_name.upper()}')
+    plt.legend()
+
+    # Plot ROC curves
+    plt.subplot(1, 2, 2)
+    for i in range(len(results[model_name]['fpr'])):
+        plt.plot(results[model_name]['fpr'][i], results[model_name]['tpr'][i], alpha=1, label=f'Outer fold {i+1}', linewidth=2)
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.title(f'ROC curve for {model_name.upper()}')
+    plt.legend()
+
+    plt.tight_layout()
+    plt.show()
+
+def print_auc_values(model_name, results):
+    print(f"Model: {model_name.upper()}")
+    for i in range(len(results[model_name]['roc_auc'])):
+        print(f"Fold {i+1} - ROC AUC: {results[model_name]['roc_auc'][i]:.4f}, PR AUC: {results[model_name]['pr_auc'][i]:.4f}")
+    print(f"Average ROC AUC: {np.mean(results[model_name]['roc_auc']):.4f}")
+    print(f"Average PR AUC: {np.mean(results[model_name]['pr_auc']):.4f}")
+    print() 
