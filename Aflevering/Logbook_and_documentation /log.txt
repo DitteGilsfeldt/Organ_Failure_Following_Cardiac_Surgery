@@ -1,0 +1,262 @@
+9228aef - DitteGilsfeldt, 4 minutes ago : chat update
+3651165 - Zilverwood, 2 hours ago : Merge pull request #54 from DitteGilsfeldt/Viktor
+c8ee8b2 - Zilverwood, 3 hours ago : Merge branch 'main' into Viktor
+34f05f5 - DitteGilsfeldt, 3 hours ago : Last gantt chart
+3ef0552 - Zilverwood, 3 hours ago : Merge branch 'main' into Viktor
+feae5ea - DitteGilsfeldt, 3 hours ago : git commit logbog
+d2e8709 - Zilverwood, 3 hours ago : Updated gantt chart
+49372f9 - Lucia, 3 hours ago : Merge pull request #53 from DitteGilsfeldt/Lucia
+58513ff - lucialululu, 4 hours ago : Chat logs updated
+e147efa - lucialululu, 4 hours ago : Merge branch 'main' into Lucia
+bbb19c6 - Zilverwood, 4 hours ago : i forgot to push so idk what this is
+3a393bb - DitteGilsfeldt, 4 hours ago : updateret logbog
+516d999 - lucialululu, 24 hours ago : Chat logs updated
+28e2c85 - DitteGilsfeldt, 30 hours ago : update logbog
+523d4e7 - lucialululu, 4 days ago : Chat logs updated
+b0bf8b6 - lucialululu, 4 days ago : Merge branch 'main' into Lucia
+b149c6e - lucialululu, 4 days ago : Merge branch 'Viktor' of https://github.com/DitteGilsfeldt/02466_Fagprojekt into Viktor
+465a2b9 - lucialululu, 4 days ago : Merge branch 'Viktor' of https://github.com/DitteGilsfeldt/02466_Fagprojekt into Viktor
+7e63d19 - lucialululu, 4 days ago : Merge branch 'Viktor' of https://github.com/DitteGilsfeldt/02466_Fagprojekt into Viktor
+561c779 - lucialululu, 4 days ago : chat logs
+d72b2db - Zilverwood, 4 days ago : Merge branch 'main' into Viktor
+8c0b42d - Zilverwood, 4 days ago : Fixed merge conflict
+4e24230 - Zilverwood, 4 days ago : Merge pull request #51 from DitteGilsfeldt/Viktor
+fe49907 - Zilverwood, 4 days ago : Merge branch 'main' into Viktor
+db37114 - Zilverwood, 4 days ago : perfomance eval tested and made into a function:))
+19e4c1f - Zilverwood, 4 days ago : perfomance function should work now
+4214b2d - Zilverwood, 4 days ago : weewoo
+0b46114 - Zilverwood, 4 days ago : added standardized function
+52fb7a7 - DitteGilsfeldt, 4 days ago : Chat update
+09f8963 - Ditte Gilsfeldt, 4 days ago : Merge pull request #50 from DitteGilsfeldt/Ditte
+3af9b7a - DitteGilsfeldt, 4 days ago : Merge branch 'main' into Ditte
+4349aeb - lucialululu, 4 days ago : updated pushed
+45b3fda - DitteGilsfeldt, 4 days ago : Deleted files
+83c54d6 - DitteGilsfeldt, 4 days ago : Merge branch 'main' into Ditte
+01b3ea4 - lucialululu, 4 days ago : fil-kode
+42fac04 - Zilverwood, 5 days ago : added mlp, gbc and restructured Perfomance_eval
+584ced7 - DitteGilsfeldt, 5 days ago : Merge conflict
+945473d - DitteGilsfeldt, 5 days ago : Merge branch 'main' into Ditte
+7783680 - Zilverwood, 5 days ago : Perfomance evaluation updated and cleaned
+d7fb25d - Ditte Gilsfeldt, 5 days ago : Merge pull request #48 from DitteGilsfeldt/Ditte
+30f7d84 - Ditte Gilsfeldt, 5 days ago : Merge branch 'main' into Ditte
+7626d3c - DitteGilsfeldt, 5 days ago : Chat-log
+4c3665c - Lucia, 5 days ago : Merge pull request #47 from DitteGilsfeldt/Lucia
+b23469d - DitteGilsfeldt, 5 days ago : Ikke færdige endnu - GB model
+97cad54 - lucialululu, 5 days ago : Merge branch 'main' into Lucia
+eb19428 - lucialululu, 5 days ago : CV og plots added
+6ca2d5a - Zilverwood, 5 days ago : Merge pull request #46 from DitteGilsfeldt/Viktor
+c4b092c - Zilverwood, 5 days ago : Merge branch 'main' into Viktor
+959e454 - Zilverwood, 5 days ago : Max_iter for lr is being reached...
+fd0b952 - lucialululu, 5 days ago : Merge branch 'main' into Lucia
+fa8bac9 - Lucia, 5 days ago : Merge pull request #45 from DitteGilsfeldt/Lucia
+fa31b42 - lucialululu, 5 days ago : Chat logs opdateret
+1fdf348 - Zilverwood, 5 days ago : Merge pull request #44 from DitteGilsfeldt/Viktor
+01dd09f - Zilverwood, 5 days ago : Merge branch 'main' into Viktor
+88a94f3 - Zilverwood, 5 days ago : Fnished tuning of lr and rf functions
+ef9bbca - Zilverwood, 5 days ago : Merge pull request #43 from DitteGilsfeldt/Viktor
+10a8af6 - Zilverwood, 5 days ago : Merge branch 'main' into Viktor
+808b3cd - Zilverwood, 6 days ago : More gridsearch
+ece9e24 - Zilverwood, 6 days ago : OK now fr
+08af1f2 - Zilverwood, 6 days ago : Added param tuning for lr
+ebcf3ec - Zilverwood, 6 days ago : Merge pull request #42 from DitteGilsfeldt/Viktor
+7693041 - Lucia, 6 days ago : Merge pull request #41 from DitteGilsfeldt/Lucia
+f43ff5e - lucialululu, 6 days ago : skyd mig
+4d90b17 - Zilverwood, 6 days ago : start on pre_op CV and hyperparameter tuning
+1969189 - Zilverwood, 6 days ago : Merge branch 'main' into Viktor
+4ef417d - Ditte Gilsfeldt, 6 days ago : Merge pull request #40 from DitteGilsfeldt/Ditte
+53023f2 - DitteGilsfeldt, 6 days ago : logbog fra 18/06/24
+189aa4a - lucialululu, 6 days ago : Merge branch 'main' into lucia
+1edb0f2 - lucialululu, 6 days ago : hjælp
+c39a8c1 - Ditte Gilsfeldt, 6 days ago : Merge pull request #39 from DitteGilsfeldt/Ditte
+df780f1 - DitteGilsfeldt, 6 days ago : Logbog opdatering - Vejledermøde med Morten
+865ffc1 - Ditte Gilsfeldt, 7 days ago : Merge pull request #38 from DitteGilsfeldt/Ditte
+0ccc2c4 - DitteGilsfeldt, 7 days ago : logbog update
+a724101 - DitteGilsfeldt, 7 days ago : gratient boosting
+a0a0f11 - Lucia, 7 days ago : Merge pull request #37 from DitteGilsfeldt/Lucia
+6d1883a - lucialululu, 7 days ago : logbog updates
+a94e617 - Ditte Gilsfeldt, 7 days ago : Merge pull request #36 from DitteGilsfeldt/Ditte
+5ee930b - DitteGilsfeldt, 7 days ago : Opdatering for møde med Lars
+ca4b408 - DitteGilsfeldt, 8 days ago : Logbog opdatering
+e926634 - Ditte Gilsfeldt, 8 days ago : Merge pull request #35 from DitteGilsfeldt/Ditte
+1ecc599 - DitteGilsfeldt, 8 days ago : logbog update
+56df9c4 - DitteGilsfeldt, 11 days ago : Logbog opdatering
+9b55bbd - DitteGilsfeldt, 11 days ago : logbog opdate
+96e0cd0 - Lucia, 11 days ago : Merge pull request #34 from DitteGilsfeldt/Lucia
+05f606c - lucialululu, 11 days ago : chat logs added
+5a5e89c - lucialululu, 12 days ago : push
+bfe003d - Ditte Gilsfeldt, 12 days ago : Merge pull request #33 from DitteGilsfeldt/Ditte
+baa076a - DitteGilsfeldt, 12 days ago : Update chat-logs and a RNN Model, which we can look at on the right data, and adjust
+46967df - lucialululu, 12 days ago : Delete chi squared
+bc93848 - Ditte Gilsfeldt, 12 days ago : Merge pull request #32 from DitteGilsfeldt/Lucia
+1ac4f3d - lucialululu, 12 days ago : Chi squared
+7ece023 - lucialululu, 12 days ago : opdateret feature selector
+d184da6 - Lucia, 12 days ago : Merge pull request #31 from DitteGilsfeldt/Lucia
+dc0852c - lucialululu, 12 days ago : chi-squared function created
+b091a17 - Lucia, 13 days ago : Merge pull request #30 from DitteGilsfeldt/Lucia
+955915b - lucialululu, 13 days ago : opdateret logbog og chat logs
+0d6d7c1 - Ditte Gilsfeldt, 13 days ago : Model and logbog opdate
+1c22eff - DitteGilsfeldt, 13 days ago : Model opdate
+1be82a7 - DitteGilsfeldt, 13 days ago : logbog
+65214f9 - DitteGilsfeldt, 13 days ago : Logbog opdate
+ff220c3 - DitteGilsfeldt, 13 days ago : Logbog
+ae744d2 - Ditte Gilsfeldt, 13 days ago : Merge pull request #27 from DitteGilsfeldt/Ditte
+0b55993 - Ditte Gilsfeldt, 13 days ago : Merge branch 'main' into Ditte
+8563b5f - Lucia, 13 days ago : Merge pull request #28 from DitteGilsfeldt/Lucia
+545e46d - DitteGilsfeldt, 13 days ago : Draft -- Some difference models - Not finished - From Chat and Git
+83b914f - lucialululu, 13 days ago : notebook updates
+82a1c2b - lucialululu, 13 days ago : Merge branch 'main' into Lucia
+add187b - lucialululu, 13 days ago : kode updates
+f2553b4 - DitteGilsfeldt, 2 weeks ago : Opdate logbog
+0675225 - Ditte Gilsfeldt, 2 weeks ago : Merge pull request #26 from DitteGilsfeldt/Ditte
+d006316 - DitteGilsfeldt, 2 weeks ago : Opdate af logbog - Møde med "søster" gruppe.
+fe74f86 - Ditte Gilsfeldt, 2 weeks ago : Merge pull request #25 from DitteGilsfeldt/Ditte
+d242d39 - DitteGilsfeldt, 2 weeks ago : Chat-log and testing a MLP model
+cdab6bf - Lucia, 2 weeks ago : Merge pull request #24 from DitteGilsfeldt/Lucia
+5c4000c - lucialululu, 2 weeks ago : EuroScore II python kode
+d4431f0 - Lucia, 3 weeks ago : Merge pull request #22 from DitteGilsfeldt/Lucia
+3d3b3bd - lucialululu, 3 weeks ago : Merge branch 'Lucia' of https://github.com/DitteGilsfeldt/02466_Fagprojekt into Lucia
+426096c - lucialululu, 3 weeks ago : Merge branch 'main' into Lucia
+403462a - lucialululu, 3 weeks ago : Merge branch 'main' into Lucia
+75b122c - Ditte Gilsfeldt, 3 weeks ago : Merge pull request #21 from DitteGilsfeldt/Ditte
+32c7b2a - DitteGilsfeldt, 3 weeks ago : Opdatering af logbog
+ac48520 - lucialululu, 3 weeks ago : Merge branch 'main' into Lucia
+d7f2f46 - lucialululu, 3 weeks ago : PDF kontrakt fjernet
+826883a - Ditte Gilsfeldt, 3 weeks ago : Merge pull request #20 from DitteGilsfeldt/Ditte
+5e833e8 - DitteGilsfeldt, 3 weeks ago : chatlogs update
+cb19fd9 - DitteGilsfeldt, 3 weeks ago : Chatlogs update
+ce89359 - Ditte Gilsfeldt, 3 weeks ago : Merge pull request #19 from DitteGilsfeldt/Lucia
+9f27619 - lucialululu, 3 weeks ago : Chat logs opdateret
+521c322 - lucialululu, 3 weeks ago : Merge branch 'Lucia' of https://github.com/DitteGilsfeldt/02466_Fagprojekt into Lucia
+2262dca - lucialululu, 3 weeks ago : chat logs indsat
+61230bc - lucialululu, 3 weeks ago : Merge branch 'main' of https://github.com/DitteGilsfeldt/02466_Fagprojekt
+491aeab - lucialululu, 3 weeks ago : Merge pull request #17 from DitteGilsfeldt/Ditte
+843fd56 - lucialululu, 3 weeks ago : notebook opdateret
+9971432 - Zilverwood, 3 weeks ago : Merge branch 'main' into Viktor
+7c26083 - lucialululu, 3 weeks ago : chat logs indsat
+97edcb8 - Zilverwood, 3 weeks ago : Gantt updated
+4d76fa5 - Ditte Gilsfeldt, 3 weeks ago : Merge pull request #18 from DitteGilsfeldt/main
+295ce42 - Ditte Gilsfeldt, 3 weeks ago : Merge pull request #17 from DitteGilsfeldt/Ditte
+39d6816 - DitteGilsfeldt, 3 weeks ago : ændring i copilot chatlogs
+41dab16 - DitteGilsfeldt, 3 weeks ago : Merge branch 'main' into Ditte
+4052320 - DitteGilsfeldt, 3 weeks ago : chat logs
+9874a25 - lucialululu, 3 weeks ago : Merge branch 'main' of https://github.com/DitteGilsfeldt/02466_Fagprojekt
+31df04f - lucialululu, 3 weeks ago : ny chat log
+5d5f23c - DitteGilsfeldt, 3 weeks ago : weewoo
+6176923 - DitteGilsfeldt, 3 weeks ago : Information fra forelæsningen den 06.06.24
+8d0fcb2 - muneer-kayali, 8 weeks ago : logbog
+097fe12 - lucialululu, 8 weeks ago : project canvas done
+81d99b5 - Zilverwood, 8 weeks ago : Updated gantt chart
+fe5f036 - Zilverwood, 9 weeks ago : Merge branch 'main' into Viktor
+a85c5a0 - Zilverwood, 9 weeks ago : gantt updated
+02fd8c2 - Zilverwood, 9 weeks ago : updated gantt diagram
+9a64a04 - Ditte Gilsfeldt, 9 weeks ago : Merge pull request #16 from DitteGilsfeldt/Ditte
+d272f06 - DitteGilsfeldt, 9 weeks ago : Update Gantt Chart
+9ba3810 - Lucia, 3 months ago : Merge pull request #15 from DitteGilsfeldt/Lucia
+8e482f3 - Zilverwood, 3 months ago : Merge pull request #14 from DitteGilsfeldt/Viktor
+00bfc9f - lucialululu, 3 months ago : ny GPT samtale added
+9b830fa - Zilverwood, 3 months ago : copilot prompts for today
+00a9e17 - DitteGilsfeldt, 3 months ago : tilføjelse af vores feedback til feedback gruppe.
+1ce71a0 - DitteGilsfeldt, 3 months ago : Feedback oploadet og logbog opdateret med mødet ang. feedback.
+0ccca0a - DitteGilsfeldt, 3 months ago : Fjerne Ditte Co-pilot mappe, da de ligger i ipynb filen, dertil er der tilføjet et billede fra charGPT til vores forside
+99d9a2a - Ditte Gilsfeldt, 3 months ago : Merge pull request #13 from DitteGilsfeldt/Ditte
+2f1541d - DitteGilsfeldt, 3 months ago : Update chat prompt
+6564044 - DitteGilsfeldt, 3 months ago : update chat prompt
+c42ad47 - DitteGilsfeldt, 3 months ago : Tilføje link til chat prompe
+da3c5ca - DitteGilsfeldt, 3 months ago : chat promte
+0dcc700 - lucialululu, 3 months ago : update til logbog
+1583f06 - Ditte Gilsfeldt, 3 months ago : Merge pull request #11 from DitteGilsfeldt/Ditte
+ed31fd3 - Ditte Gilsfeldt, 3 months ago : Merge pull request #10 from DitteGilsfeldt/main
+226bdcd - Ditte Gilsfeldt, 3 months ago : Merge pull request #9 from DitteGilsfeldt/Ditte
+928a964 - Ditte Gilsfeldt, 3 months ago : Merge pull request #8 from DitteGilsfeldt/main
+2374390 - lucialululu, 3 months ago : notebook update (tital tilføjet)
+e9d6c2c - Zilverwood, 3 months ago : Merge pull request #7 from DitteGilsfeldt/Viktor
+7eb54a6 - Zilverwood, 3 months ago : Merge branch 'main' into Viktor
+175f37f - Zilverwood, 3 months ago : Logbog for today
+853ca98 - DitteGilsfeldt, 3 months ago : Tilføjelse til lecture note week 7
+d0bacc9 - DitteGilsfeldt, 3 months ago : Moved logbog, it was in a wrong folder
+7ddd194 - DitteGilsfeldt, 3 months ago : Merge Lecture and Lecture Note
+5fbb57f - Ditte Gilsfeldt, 3 months ago : Merge pull request #4 from DitteGilsfeldt/Ditte
+e149c5f - DitteGilsfeldt, 3 months ago : Noter fra Lecture week 7
+255c430 - Zilverwood, 3 months ago : Merge pull request #3 from DitteGilsfeldt/Viktor
+d2e7ea6 - Zilverwood, 3 months ago : added some prompts to CoPilots
+837b176 - Zilverwood, 3 months ago : Added chatlog and questions in logbog for next meeting
+44b1d5e - Ditte Gilsfeldt, 3 months ago : Merge pull request #2 from DitteGilsfeldt/Ditte
+eaaf7b3 - DitteGilsfeldt, 3 months ago : Logbog med mail korrespondance med Muneer
+4319586 - lucialululu, 4 months ago : opdateringer
+0019bdf - lucialululu, 4 months ago : logbog opdateret
+706be8f - Zilverwood, 4 months ago : Updated Gantt sheet
+cd0e974 - lucialululu, 4 months ago : Logbog opdateret
+454d886 - lucialululu, 4 months ago : powerpoint file saved as PDF
+bbb5443 - lucialululu, 4 months ago : Learning goals PDF added
+2b13edd - DitteGilsfeldt, 4 months ago : gant chart
+50bb7fa - DitteGilsfeldt, 4 months ago : Logbog changes
+55e18f1 - DitteGilsfeldt, 4 months ago : Opdatering af logbog
+aece025 - DitteGilsfeldt, 4 months ago : Noter fra Lecture 5
+e7fea81 - DitteGilsfeldt, 4 months ago : første udkast af projekt beskrivelse til vejleder
+80b5466 - Zilverwood, 4 months ago : monke
+c18af13 - Zilverwood, 4 months ago : mode med morten
+4102be1 - Zilverwood, 4 months ago : Tilføjjet min kontrakt
+4ff87eb - lucialululu, 4 months ago : lucias kontrakt tilføjet :))
+b5e326f - DitteGilsfeldt, 4 months ago : Kontrakt Rigshospitalet
+e557d4a - lucialululu, 4 months ago : PDF filer mappe
+3ad1e48 - lucialululu, 4 months ago : mappe navne
+cb19d0b - lucialululu, 4 months ago : edits
+43ce20a - DitteGilsfeldt, 4 months ago : -
+b76bc82 - DitteGilsfeldt, 4 months ago : -
+386d604 - DitteGilsfeldt, 4 months ago : Internetsider til søgning af litteratur
+618d990 - DitteGilsfeldt, 4 months ago : Øvelser fra Lecture Note, Samt promt fra Copolit
+558e1ab - lucialululu, 4 months ago : link update
+32de355 - lucialululu, 4 months ago : ny chatGPT url
+3014ebf - lucialululu, 4 months ago : powerpoint tilføjelse
+ad26a17 - DitteGilsfeldt, 4 months ago : Powerpoint fra vejleder møde 1
+d1fb85f - DitteGilsfeldt, 4 months ago : Noter fra møde med vejleder
+24151c3 - lucialululu, 5 months ago : update
+8f056f4 - lucialululu, 5 months ago : project canvas done
+b7a621a - Zilverwood, 5 months ago : Gantt yay
+40b608c - Zilverwood, 5 months ago : Merge branch 'main' of https://github.com/DitteGilsfeldt/02466_Fagprojekt
+4e3afb1 - Zilverwood, 5 months ago : Added gantt template
+a109397 - Muneer Kayali, 5 months ago : update link
+e645669 - lucialululu, 5 months ago : links
+d8f5105 - DitteGilsfeldt, 5 months ago : -
+cc4d905 - DitteGilsfeldt, 5 months ago : -
+8a21123 - Muneer Kayali, 5 months ago : a
+80d4a2e - Muneer Kayali, 5 months ago : Merge branch 'main' of https://github.com/DitteGilsfeldt/02466_Fagprojekt
+5e7f2f6 - Muneer Kayali, 5 months ago : link til chat
+95409e8 - lucialululu, 5 months ago : links tilføjet
+7a2d1d6 - DitteGilsfeldt, 5 months ago : notebook filer til chat logs
+8d9fe36 - lucialululu, 5 months ago : Spørgsmål
+7b85697 - DitteGilsfeldt, 5 months ago : Chat logs
+33e7aff - Zilverwood, 5 months ago : Merge branch 'main' of https://github.com/DitteGilsfeldt/02466_Fagprojekt
+328e5b5 - Zilverwood, 5 months ago : supervisor meeting
+9d2b2bc - DitteGilsfeldt, 5 months ago : Slet af question to supervisor
+01fe609 - Zilverwood, 5 months ago : Merge branches 'main' and 'main' of https://github.com/DitteGilsfeldt/02466_Fagprojekt
+dfaea7f - Zilverwood, 5 months ago : Logbook for 07/02
+baab3ae - DitteGilsfeldt, 5 months ago : Question to supervisor
+5d5bd99 - Zilverwood, 5 months ago : Logbook
+376367e - Zilverwood, 5 months ago : Merge branch 'main' of https://github.com/DitteGilsfeldt/02466_Fagprojekt
+1360ed4 - DitteGilsfeldt, 5 months ago : -
+7fd6dc6 - Zilverwood, 5 months ago : logbook template
+a7a0c60 - DitteGilsfeldt, 5 months ago : Samarbejdskontrakt i pdf
+900a852 - DitteGilsfeldt, 5 months ago : Slet template
+7e5c4f3 - Muneer Kayali, 5 months ago : Merge branch 'main' of https://github.com/DitteGilsfeldt/02466_Fagprojekt
+9688625 - Muneer Kayali, 5 months ago : asd
+62a9ac1 - Muneer Kayali, 5 months ago : Ordnet merge
+16b24b5 - lucialululu, 5 months ago : Titel i project canvas
+9052589 - DitteGilsfeldt, 5 months ago : Færdige samarbejdskontrakt
+d0cdca6 - DitteGilsfeldt, 5 months ago : -
+48f3001 - DitteGilsfeldt, 5 months ago : Update samarbejdskontakt
+f674086 - lucialululu, 5 months ago : projekt canvas upload
+a1e1c45 - DitteGilsfeldt, 5 months ago : Update samarbejds kontrakt
+f4a772f - DitteGilsfeldt, 5 months ago : Samarbejdskontrakt - ipynb
+a6dac83 - Zilverwood, 5 months ago : fjerner $marbejd
+7ad2ae4 - lucialululu, 5 months ago : hjælp
+d70e85e - Muneer Kayali, 5 months ago : .
+a15b851 - Muneer Kayali, 5 months ago : xd
+876b5e7 - DitteGilsfeldt, 5 months ago : update samarbejdskontrakt til word fil
+12dbe9b - DitteGilsfeldt, 5 months ago : update samarbejdskontrak
+980ce6f - DitteGilsfeldt, 5 months ago : Samarbejdskontrakt
+16a40d1 - DitteGilsfeldt, 5 months ago : Titel i samarbejdskontrakt
+6ed43b8 - Muneer Kayali, 5 months ago : xd
+209b50d - Zilverwood, 5 months ago : Samarbejdskontrakt
+b1c1f3d - lucialululu, 5 months ago : opdatering til readme som en test
+ea184e5 - Lucia, 5 months ago : Create README.md
