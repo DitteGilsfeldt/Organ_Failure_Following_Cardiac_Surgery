@@ -42,7 +42,7 @@ The study used clinical data from approximately **1800 cardiac surgery patients*
 ├── Project_Work_Fagprojekt_Organ_Failure.pdf
 ├── .gitignore
 ├── LICENSE
-└── README.md
+└── README.md```
 
 
 - `main_script.ipynb`: Main notebook for model training and evaluation  
