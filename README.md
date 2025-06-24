@@ -33,16 +33,15 @@ The study used clinical data from approximately **1800 cardiac surgery patients*
 
 ## Repository Structure
 
-
-Organ_Failure_Following_Cardiac_Surgery/
 ├── Kode/
-│ ├── grouped_eval.py
-│ ├── main_model_script.py
-│ ├── main_script.ipynb
-│ └── performance_eval.py
+│   ├── grouped_eval.py
+│   ├── main_model_script.py
+│   ├── main_script.ipynb
+│   ├── performance_eval.py
 ├── Project_Work_Fagprojekt_Organ_Failure.pdf
-
-
+├── .gitignore
+├── LICENSE
+├── README.md
 
 - `main_script.ipynb`: Main notebook for model training and evaluation  
 - `main_model_script.py`: Model definitions and data loaders  
