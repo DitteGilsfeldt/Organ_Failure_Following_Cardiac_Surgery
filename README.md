@@ -1,4 +1,4 @@
-# BSc Project – Organ Failure Following Cardiac Surgery  
+# Project – Organ Failure Following Cardiac Surgery  
 *The Use of AI for Prediction Modelling*
 
 ### Main Focus  
